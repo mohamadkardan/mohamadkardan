@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mohamadkardan
 - 👀 I’m interested in Android development and also sport!
-- 🌱 I’m currently learning MVVM Architecture
+- 🌱 I’m currently learn Kotlin
 - 📫 reach me in linkedin : www.linkedin.com/in/mohamadkardan
 
 <!---
